@@ -22,6 +22,6 @@ File 3 (Minimax) : consists of files for bot that wll be the checker game. It ha
 
 File 4 (__init__.py) : to make Python treat directories containing it as modules.
 
-File 4 (main.py) ; Parent file of whole program
+File 5 (main.py) ; Parent file of whole program
 
 
